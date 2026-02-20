@@ -93,3 +93,7 @@ package-lock.json
 
 # Local iOS signing overrides
 apps/ios/LocalSigning.xcconfig
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
